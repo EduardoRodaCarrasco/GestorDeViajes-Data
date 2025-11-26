@@ -1,0 +1,243 @@
+
+[
+  {
+    "destino": "París",
+    "fechaInicio": "2025-12-20T00:00:00Z",
+    "fechaFin": "2025-12-27T00:00:00Z",
+    "precio": 850.50,
+    "participantes": ["Ana", "Luis", "Carlos"],
+    "descripcion": "Viaje navideño a París visitando la Torre Eiffel, el Louvre y los mercados de Navidad.",
+    "web": "https://www.parisinfo.com",
+    "latitud": 48.8566,
+    "longitud": 2.3522,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-10-02T12:00:00Z",
+      "comentario": "Aún no reservado"
+    }
+  },
+  {
+    "destino": "Tokio",
+    "fechaInicio": "2024-07-05T00:00:00Z",
+    "fechaFin": "2024-07-20T00:00:00Z",
+    "precio": 2500.0,
+    "participantes": ["Laura", "Miguel"],
+    "descripcion": "Descubrir Japón: templos, tecnología, gastronomía y cultura tradicional.",
+    "web": "https://www.gotokyo.org",
+    "latitud": 35.6895,
+    "longitud": 139.6917,
+    "estado": {
+      "estado": "finalizado",
+      "fechaCambio": "2024-07-25T18:00:00Z",
+      "comentario": "Viaje completado con éxito"
+    }
+  },
+  {
+    "destino": "Nueva York",
+    "fechaInicio": "2025-03-10T00:00:00Z",
+    "fechaFin": "2025-03-17T00:00:00Z",
+    "precio": 1900.0,
+    "participantes": ["Sofía"],
+    "descripcion": "Explorar Manhattan, Central Park, Broadway y los rascacielos.",
+    "web": "https://www.nycgo.com",
+    "latitud": 40.7128,
+    "longitud": -74.0060,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-02-01T09:00:00Z",
+      "comentario": "Planificando itinerario"
+    }
+  },
+  {
+    "destino": "Roma",
+    "fechaInicio": "2025-05-01T00:00:00Z",
+    "fechaFin": "2025-05-08T00:00:00Z",
+    "precio": 1200.0,
+    "participantes": ["Pedro", "Marta"],
+    "descripcion": "Visita al Coliseo, Vaticano, Fontana di Trevi y gastronomía italiana.",
+    "web": "https://www.turismoroma.it",
+    "latitud": 41.9028,
+    "longitud": 12.4964,
+    "estado": {
+      "estado": "enCurso",
+      "fechaCambio": "2025-05-01T07:00:00Z",
+      "comentario": "Vuelo aterrizado"
+    }
+  },
+  {
+    "destino": "Londres",
+    "fechaInicio": "2025-04-10T00:00:00Z",
+    "fechaFin": "2025-04-15T00:00:00Z",
+    "precio": 1100.0,
+    "participantes": ["Álvaro", "Julia"],
+    "descripcion": "Museo Británico, Big Ben, London Eye y barrios típicos.",
+    "web": "https://visitlondon.com",
+    "latitud": 51.5074,
+    "longitud": -0.1278,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-03-11T11:00:00Z",
+      "comentario": "A la espera de confirmar hotel"
+    }
+  },
+  {
+    "destino": "Bali",
+    "fechaInicio": "2025-06-01T00:00:00Z",
+    "fechaFin": "2025-06-14T00:00:00Z",
+    "precio": 2700.0,
+    "participantes": ["Clara", "Dani"],
+    "descripcion": "Playas paradisíacas, templos y naturaleza tropical.",
+    "web": "https://www.balitourismboard.org",
+    "latitud": -8.3405,
+    "longitud": 115.0920,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-02-18T15:00:00Z",
+      "comentario": "Todavía sin vuelos"
+    }
+  },
+  {
+    "destino": "Sidney",
+    "fechaInicio": "2025-11-01T00:00:00Z",
+    "fechaFin": "2025-11-14T00:00:00Z",
+    "precio": 3200.0,
+    "participantes": ["Marina"],
+    "descripcion": "Ópera de Sídney, playas y fauna australiana.",
+    "web": "https://www.sydney.com",
+    "latitud": -33.8688,
+    "longitud": 151.2093,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-03-20T16:00:00Z",
+      "comentario": "Plan inicial creado"
+    }
+  },
+  {
+    "destino": "Toronto",
+    "fechaInicio": "2025-09-02T00:00:00Z",
+    "fechaFin": "2025-09-09T00:00:00Z",
+    "precio": 1800.0,
+    "participantes": ["Jorge", "Lucía"],
+    "descripcion": "Cataratas del Niágara, museos y torres panorámicas.",
+    "web": "https://www.destinationontario.com",
+    "latitud": 43.651070,
+    "longitud": -79.347015,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-01-15T13:00:00Z",
+      "comentario": "Buscando fechas alternativas"
+    }
+  },
+  {
+    "destino": "Bangkok",
+    "fechaInicio": "2025-02-10T00:00:00Z",
+    "fechaFin": "2025-02-18T00:00:00Z",
+    "precio": 1600.0,
+    "participantes": ["Pablo"],
+    "descripcion": "Mercados flotantes, templos budistas y comida callejera.",
+    "web": "https://www.tourismthailand.org",
+    "latitud": 13.7563,
+    "longitud": 100.5018,
+    "estado": {
+      "estado": "finalizado",
+      "fechaCambio": "2025-02-18T20:00:00Z",
+      "comentario": "Viaje increíble"
+    }
+  },
+  {
+    "destino": "Cancún",
+    "fechaInicio": "2025-08-01T00:00:00Z",
+    "fechaFin": "2025-08-08T00:00:00Z",
+    "precio": 2200.0,
+    "participantes": ["Elena", "Javi"],
+    "descripcion": "Playas paradisíacas, ruinas mayas y vida nocturna.",
+    "web": "https://www.visitmexico.com",
+    "latitud": 21.1619,
+    "longitud": -86.8515,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-02-03T10:00:00Z",
+      "comentario": "Esperando confirmación de vacaciones"
+    }
+  },
+  {
+    "destino": "Ámsterdam",
+    "fechaInicio": "2025-04-05T00:00:00Z",
+    "fechaFin": "2025-04-12T00:00:00Z",
+    "precio": 1300.0,
+    "participantes": ["Mario"],
+    "descripcion": "Canales, museos, bicicletas y flores.",
+    "web": "https://www.iamsterdam.com",
+    "latitud": 52.3676,
+    "longitud": 4.9041,
+    "estado": {
+      "estado": "enCurso",
+      "fechaCambio": "2025-04-05T09:00:00Z",
+      "comentario": "Llegada reciente"
+    }
+  },
+  {
+    "destino": "Seúl",
+    "fechaInicio": "2025-10-10T00:00:00Z",
+    "fechaFin": "2025-10-20T00:00:00Z",
+    "precio": 2400.0,
+    "participantes": ["Nuria", "Raúl"],
+    "descripcion": "Tecnología, cultura pop, templos y mercados nocturnos.",
+    "web": "https://english.visitseoul.net",
+    "latitud": 37.5665,
+    "longitud": 126.9780,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-03-14T12:00:00Z",
+      "comentario": "Pendiente de vuelos"
+    }
+  },
+  {
+    "destino": "El Cairo",
+    "fechaInicio": "2025-11-25T00:00:00Z",
+    "fechaFin": "2025-12-02T00:00:00Z",
+    "precio": 2000.0,
+    "participantes": ["Ismael"],
+    "descripcion": "Pirámides de Giza, esfinge, museos y historia faraónica.",
+    "web": "https://www.egypt.travel",
+    "latitud": 30.0444,
+    "longitud": 31.2357,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-01-02T10:00:00Z",
+      "comentario": "Investigando hoteles"
+    }
+  },
+  {
+    "destino": "Buenos Aires",
+    "fechaInicio": "2025-07-01T00:00:00Z",
+    "fechaFin": "2025-07-10T00:00:00Z",
+    "precio": 1700.0,
+    "participantes": ["Andrea", "Rosa"],
+    "descripcion": "Tango, gastronomía, barrios coloridos y cultura.",
+    "web": "https://turismo.buenosaires.gob.ar",
+    "latitud": -34.6037,
+    "longitud": -58.3816,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-03-01T08:00:00Z",
+      "comentario": "Buscando precio de vuelos"
+    }
+  },
+  {
+    "destino": "Reykjavik",
+    "fechaInicio": "2025-12-01T00:00:00Z",
+    "fechaFin": "2025-12-08T00:00:00Z",
+    "precio": 2600.0,
+    "participantes": ["Daniel"],
+    "descripcion": "Auroras boreales, géiseres y aguas termales.",
+    "web": "https://visitreykjavik.is",
+    "latitud": 64.1466,
+    "longitud": -21.9426,
+    "estado": {
+      "estado": "pendiente",
+      "fechaCambio": "2025-02-12T14:00:00Z",
+      "comentario": "Revisando clima"
+    }
+  }
+]
