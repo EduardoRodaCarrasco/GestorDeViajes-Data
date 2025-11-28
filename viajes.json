@@ -1,4 +1,3 @@
-
 [
   {
     "destino": "París",
@@ -14,7 +13,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-10-02T12:00:00Z",
       "comentario": "Aún no reservado"
-    }
+    },
+    "imagen": "paris"
   },
   {
     "destino": "Tokio",
@@ -30,7 +30,8 @@
       "estado": "finalizado",
       "fechaCambio": "2024-07-25T18:00:00Z",
       "comentario": "Viaje completado con éxito"
-    }
+    },
+    "imagen": "tokio"
   },
   {
     "destino": "Nueva York",
@@ -46,7 +47,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-02-01T09:00:00Z",
       "comentario": "Planificando itinerario"
-    }
+    },
+    "imagen": "nuevayork"
   },
   {
     "destino": "Roma",
@@ -62,7 +64,8 @@
       "estado": "enCurso",
       "fechaCambio": "2025-05-01T07:00:00Z",
       "comentario": "Vuelo aterrizado"
-    }
+    },
+    "imagen": "roma"
   },
   {
     "destino": "Londres",
@@ -78,7 +81,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-03-11T11:00:00Z",
       "comentario": "A la espera de confirmar hotel"
-    }
+    },
+    "imagen": "londres"
   },
   {
     "destino": "Bali",
@@ -94,7 +98,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-02-18T15:00:00Z",
       "comentario": "Todavía sin vuelos"
-    }
+    },
+    "imagen": "bali"
   },
   {
     "destino": "Sidney",
@@ -110,7 +115,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-03-20T16:00:00Z",
       "comentario": "Plan inicial creado"
-    }
+    },
+    "imagen": "sidney"
   },
   {
     "destino": "Toronto",
@@ -120,13 +126,14 @@
     "participantes": ["Jorge", "Lucía"],
     "descripcion": "Cataratas del Niágara, museos y torres panorámicas.",
     "web": "https://www.destinationontario.com",
-    "latitud": 43.651070,
+    "latitud": 43.65107,
     "longitud": -79.347015,
     "estado": {
       "estado": "pendiente",
       "fechaCambio": "2025-01-15T13:00:00Z",
       "comentario": "Buscando fechas alternativas"
-    }
+    },
+    "imagen": "toronto"
   },
   {
     "destino": "Bangkok",
@@ -142,7 +149,8 @@
       "estado": "finalizado",
       "fechaCambio": "2025-02-18T20:00:00Z",
       "comentario": "Viaje increíble"
-    }
+    },
+    "imagen": "bangkok"
   },
   {
     "destino": "Cancún",
@@ -158,7 +166,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-02-03T10:00:00Z",
       "comentario": "Esperando confirmación de vacaciones"
-    }
+    },
+    "imagen": "cancun"
   },
   {
     "destino": "Ámsterdam",
@@ -174,7 +183,8 @@
       "estado": "enCurso",
       "fechaCambio": "2025-04-05T09:00:00Z",
       "comentario": "Llegada reciente"
-    }
+    },
+    "imagen": "amsterdam"
   },
   {
     "destino": "Seúl",
@@ -190,7 +200,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-03-14T12:00:00Z",
       "comentario": "Pendiente de vuelos"
-    }
+    },
+    "imagen": "seul"
   },
   {
     "destino": "El Cairo",
@@ -206,7 +217,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-01-02T10:00:00Z",
       "comentario": "Investigando hoteles"
-    }
+    },
+    "imagen": "cairo"
   },
   {
     "destino": "Buenos Aires",
@@ -222,7 +234,8 @@
       "estado": "pendiente",
       "fechaCambio": "2025-03-01T08:00:00Z",
       "comentario": "Buscando precio de vuelos"
-    }
+    },
+    "imagen": "buenosaires"
   },
   {
     "destino": "Reykjavik",
@@ -238,6 +251,7 @@
       "estado": "pendiente",
       "fechaCambio": "2025-02-12T14:00:00Z",
       "comentario": "Revisando clima"
-    }
+    },
+    "imagen": "reykjavik"
   }
 ]
