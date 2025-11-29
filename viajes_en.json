@@ -1,0 +1,257 @@
+[
+  {
+    "destino": "Paris",
+    "fechaInicio": "2025-12-20T00:00:00Z",
+    "fechaFin": "2025-12-27T00:00:00Z",
+    "precio": 850.50,
+    "participantes": ["Ana", "Luis", "Carlos"],
+    "descripcion": "Christmas trip to Paris visiting the Eiffel Tower, the Louvre, and the Christmas markets.",
+    "web": "https://www.parisinfo.com",
+    "latitud": 48.8566,
+    "longitud": 2.3522,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-10-02T12:00:00Z",
+      "comentario": "Not booked yet"
+    },
+    "imagen": "paris"
+  },
+  {
+    "destino": "Tokyo",
+    "fechaInicio": "2024-07-05T00:00:00Z",
+    "fechaFin": "2024-07-20T00:00:00Z",
+    "precio": 2500.0,
+    "participantes": ["Laura", "Miguel"],
+    "descripcion": "Discover Japan: temples, technology, gastronomy, and traditional culture.",
+    "web": "https://www.gotokyo.org",
+    "latitud": 35.6895,
+    "longitud": 139.6917,
+    "estado": {
+      "estado": "completed",
+      "fechaCambio": "2024-07-25T18:00:00Z",
+      "comentario": "Trip successfully completed"
+    },
+    "imagen": "tokio"
+  },
+  {
+    "destino": "New York",
+    "fechaInicio": "2025-03-10T00:00:00Z",
+    "fechaFin": "2025-03-17T00:00:00Z",
+    "precio": 1900.0,
+    "participantes": ["Sofía"],
+    "descripcion": "Explore Manhattan, Central Park, Broadway, and the skyscrapers.",
+    "web": "https://www.nycgo.com",
+    "latitud": 40.7128,
+    "longitud": -74.0060,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-02-01T09:00:00Z",
+      "comentario": "Itinerary planning"
+    },
+    "imagen": "nuevayork"
+  },
+  {
+    "destino": "Rome",
+    "fechaInicio": "2025-05-01T00:00:00Z",
+    "fechaFin": "2025-05-08T00:00:00Z",
+    "precio": 1200.0,
+    "participantes": ["Pedro", "Marta"],
+    "descripcion": "Visit the Colosseum, Vatican, Trevi Fountain, and Italian cuisine.",
+    "web": "https://www.turismoroma.it",
+    "latitud": 41.9028,
+    "longitud": 12.4964,
+    "estado": {
+      "estado": "inProgress",
+      "fechaCambio": "2025-05-01T07:00:00Z",
+      "comentario": "Flight has landed"
+    },
+    "imagen": "roma"
+  },
+  {
+    "destino": "London",
+    "fechaInicio": "2025-04-10T00:00:00Z",
+    "fechaFin": "2025-04-15T00:00:00Z",
+    "precio": 1100.0,
+    "participantes": ["Álvaro", "Julia"],
+    "descripcion": "British Museum, Big Ben, London Eye, and iconic neighborhoods.",
+    "web": "https://visitlondon.com",
+    "latitud": 51.5074,
+    "longitud": -0.1278,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-03-11T11:00:00Z",
+      "comentario": "Waiting for hotel confirmation"
+    },
+    "imagen": "londres"
+  },
+  {
+    "destino": "Bali",
+    "fechaInicio": "2025-06-01T00:00:00Z",
+    "fechaFin": "2025-06-14T00:00:00Z",
+    "precio": 2700.0,
+    "participantes": ["Clara", "Dani"],
+    "descripcion": "Paradisiacal beaches, temples, and tropical nature.",
+    "web": "https://www.balitourismboard.org",
+    "latitud": -8.3405,
+    "longitud": 115.0920,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-02-18T15:00:00Z",
+      "comentario": "Still no flights booked"
+    },
+    "imagen": "bali"
+  },
+  {
+    "destino": "Sydney",
+    "fechaInicio": "2025-11-01T00:00:00Z",
+    "fechaFin": "2025-11-14T00:00:00Z",
+    "precio": 3200.0,
+    "participantes": ["Marina"],
+    "descripcion": "Sydney Opera House, beaches, and Australian wildlife.",
+    "web": "https://www.sydney.com",
+    "latitud": -33.8688,
+    "longitud": 151.2093,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-03-20T16:00:00Z",
+      "comentario": "Initial plan created"
+    },
+    "imagen": "sidney"
+  },
+  {
+    "destino": "Toronto",
+    "fechaInicio": "2025-09-02T00:00:00Z",
+    "fechaFin": "2025-09-09T00:00:00Z",
+    "precio": 1800.0,
+    "participantes": ["Jorge", "Lucía"],
+    "descripcion": "Niagara Falls, museums, and panoramic towers.",
+    "web": "https://www.destinationontario.com",
+    "latitud": 43.65107,
+    "longitud": -79.347015,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-01-15T13:00:00Z",
+      "comentario": "Searching alternative dates"
+    },
+    "imagen": "toronto"
+  },
+  {
+    "destino": "Bangkok",
+    "fechaInicio": "2025-02-10T00:00:00Z",
+    "fechaFin": "2025-02-18T00:00:00Z",
+    "precio": 1600.0,
+    "participantes": ["Pablo"],
+    "descripcion": "Floating markets, Buddhist temples, and street food.",
+    "web": "https://www.tourismthailand.org",
+    "latitud": 13.7563,
+    "longitud": 100.5018,
+    "estado": {
+      "estado": "completed",
+      "fechaCambio": "2025-02-18T20:00:00Z",
+      "comentario": "Amazing trip"
+    },
+    "imagen": "bangkok"
+  },
+  {
+    "destino": "Cancun",
+    "fechaInicio": "2025-08-01T00:00:00Z",
+    "fechaFin": "2025-08-08T00:00:00Z",
+    "precio": 2200.0,
+    "participantes": ["Elena", "Javi"],
+    "descripcion": "Paradisiacal beaches, Mayan ruins, and nightlife.",
+    "web": "https://www.visitmexico.com",
+    "latitud": 21.1619,
+    "longitud": -86.8515,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-02-03T10:00:00Z",
+      "comentario": "Waiting for vacation confirmation"
+    },
+    "imagen": "cancun"
+  },
+  {
+    "destino": "Amsterdam",
+    "fechaInicio": "2025-04-05T00:00:00Z",
+    "fechaFin": "2025-04-12T00:00:00Z",
+    "precio": 1300.0,
+    "participantes": ["Mario"],
+    "descripcion": "Canals, museums, bicycles, and flowers.",
+    "web": "https://www.iamsterdam.com",
+    "latitud": 52.3676,
+    "longitud": 4.9041,
+    "estado": {
+      "estado": "inProgress",
+      "fechaCambio": "2025-04-05T09:00:00Z",
+      "comentario": "Recent arrival"
+    },
+    "imagen": "amsterdam"
+  },
+  {
+    "destino": "Seoul",
+    "fechaInicio": "2025-10-10T00:00:00Z",
+    "fechaFin": "2025-10-20T00:00:00Z",
+    "precio": 2400.0,
+    "participantes": ["Nuria", "Raúl"],
+    "descripcion": "Technology, pop culture, temples, and night markets.",
+    "web": "https://english.visitseoul.net",
+    "latitud": 37.5665,
+    "longitud": 126.9780,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-03-14T12:00:00Z",
+      "comentario": "Pending flights"
+    },
+    "imagen": "seul"
+  },
+  {
+    "destino": "Cairo",
+    "fechaInicio": "2025-11-25T00:00:00Z",
+    "fechaFin": "2025-12-02T00:00:00Z",
+    "precio": 2000.0,
+    "participantes": ["Ismael"],
+    "descripcion": "Giza pyramids, sphinx, museums, and pharaonic history.",
+    "web": "https://www.egypt.travel",
+    "latitud": 30.0444,
+    "longitud": 31.2357,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-01-02T10:00:00Z",
+      "comentario": "Researching hotels"
+    },
+    "imagen": "cairo"
+  },
+  {
+    "destino": "Buenos Aires",
+    "fechaInicio": "2025-07-01T00:00:00Z",
+    "fechaFin": "2025-07-10T00:00:00Z",
+    "precio": 1700.0,
+    "participantes": ["Andrea", "Rosa"],
+    "descripcion": "Tango, gastronomy, colorful neighborhoods, and culture.",
+    "web": "https://turismo.buenosaires.gob.ar",
+    "latitud": -34.6037,
+    "longitud": -58.3816,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-03-01T08:00:00Z",
+      "comentario": "Checking flight prices"
+    },
+    "imagen": "buenosaires"
+  },
+  {
+    "destino": "Reykjavik",
+    "fechaInicio": "2025-12-01T00:00:00Z",
+    "fechaFin": "2025-12-08T00:00:00Z",
+    "precio": 2600.0,
+    "participantes": ["Daniel"],
+    "descripcion": "Northern lights, geysers, and hot springs.",
+    "web": "https://visitreykjavik.is",
+    "latitud": 64.1466,
+    "longitud": -21.9426,
+    "estado": {
+      "estado": "pending",
+      "fechaCambio": "2025-02-12T14:00:00Z",
+      "comentario": "Checking weather"
+    },
+    "imagen": "reykjavik"
+  }
+]
